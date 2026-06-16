@@ -35,6 +35,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Documentation](#documentation)
 * [Environment & Secret Management](#environment--secret-management)
 * [Feature Flags](#feature-flags)
+* [Fraud & Bot Detection](#fraud--bot-detection)
 * [Gen UI](#gen-ui)
 * [GEO](#geo)
 * [IDE](#ide)
@@ -246,6 +247,12 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Split](https://www.split.io/) - Feature flags platform with data analytics.
 * [Statsig](https://statsig.com/) - All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.
 * [Unleash](https://www.getunleash.io/) - Open-source, privacy-first, and enterprise-ready feature management solution. [![Unleash](https://img.shields.io/github/stars/unleash/unleash?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/unleash/unleash)
+
+## Fraud & Bot Detection
+*Detect and prevent fraudulent users, bots, and abuse via APIs.*
+* [Fingerprint](https://fingerprint.com/) - Browser fingerprinting and visitor identification API. [![Fingerprint](https://img.shields.io/github/stars/fingerprintjs/fingerprintjs?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/fingerprintjs/fingerprintjs)
+* [IPASIS](https://ipasis.com) - Real-time bot detection and fraud prevention API combining IP reputation, VPN/proxy/Tor detection, and email validation in a single call. Sub-20ms response.
+* [Sift](https://sift.com/) - Real-time machine learning for fraud prevention across payments, content, and accounts.
 
 ## Gen UI
 *Or Generative UI, Dynamic User Experiences, Adaptive UI.*
